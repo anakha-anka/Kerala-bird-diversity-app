@@ -1,0 +1,3 @@
+model,n_features,cv_macro_f1,accuracy,macro_precision,macro_recall,macro_f1,roc_auc_ovr
+XGBoost: composition + effort + environment (selected),16,0.7955972706912281,0.8363636363636363,0.819498979281588,0.8011251076658054,0.8085919287315101,0.9273868609064136
+XGBoost: effort + environment only (leakage-free baseline),9,,0.5636363636363636,0.5277261102069286,0.4978682170542636,0.506576953385464,0.7102531259733008
